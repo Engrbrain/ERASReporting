@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<RptDataSource xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" Name="ERAS">
+  <ConnectionProperties>
+    <Extension>SQL</Extension>
+    <ConnectString>Data Source=10.130.64.137;Initial Catalog=ERAS</ConnectString>
+  </ConnectionProperties>
+  <DataSourceID>76d7cf61-7380-4c3b-906a-518e342040b2</DataSourceID>
+</RptDataSource>

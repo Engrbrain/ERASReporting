@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "ERASReporting", "ERASReporting\ERASReporting.rptproj", "{1EF51789-9B97-4175-A258-22A7C7E58DA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Debug|Default.ActiveCfg = Debug
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Debug|Default.Build.0 = Debug
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Debug|Default.Deploy.0 = Debug
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.DebugLocal|Default.Build.0 = DebugLocal
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Release|Default.ActiveCfg = Release
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Release|Default.Build.0 = Release
+		{1EF51789-9B97-4175-A258-22A7C7E58DA3}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E1C80E35-FBFA-4067-B823-9969EA22B9D3}
+	EndGlobalSection
+EndGlobal
